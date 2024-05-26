@@ -1,1 +1,1 @@
-# CameraWinPy
+# NxtCamPrivacy
